@@ -1,0 +1,6 @@
+url: https://github.com/jk-uzi/dsh-multi-remote
+name: jk-uzi/dsh-multi-remote
+category: remote
+description:
+  en: Run file operations, shell commands, terminals and search on remote SSH, WSL or Docker targets.
+  zh: SSH、WSL、Docker 三合一远程开发，文件读写、命令、终端、搜索全部落在目标环境。
